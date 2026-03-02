@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sacredgeometrydaily.com/sitemap.xml
